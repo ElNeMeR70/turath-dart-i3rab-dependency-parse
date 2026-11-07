@@ -1,0 +1,5 @@
+name: turath_dart_i3rab_dependency_parse
+description: "Classical Arabic Syntactic I'rab Case-Ending & Dependency Parser"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
